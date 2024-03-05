@@ -4,6 +4,10 @@ This repository contains the code to reproduce all the figures and results in ou
 ## Overview 
 The waning protection of vaccines and therapeutics against viruses as they mutate over time highlights the need for new evaluation approaches that take future viral evolution into account. Current vaccine and therapeutic evaluation protocols are **retroactive**, relying on assessments against previous strains of a virus or against distantly related viruses as a proxy for lasting protection. We present and test a new design method for creating antigens that quantitatively and qualitatively anticipate immune escape. Our method overcomes a key limitation in current vaccine evaluation protocols by enabling **proactive** evaluation against future viral strains, a critical advance in preparing against viral outbreaks.
  
+## Authors 
+Noor Youssef, Sarah Gurev, Fadi Ghantous, Kelly P. Brock, Javier Jaimes, Nicole N. Thadani, Ann Dauphin, Amy C. Sherman, Leonid Yurkovetskiy, Daria Soto, Ralph Estanboulieh, Ben Kotzen, Pascal Notin, Aaron W. Kollasch, Alexander A. Cohen, Sandra E. Dross, Jesse H. Erasmus, Deborah H. Fuller, Pamela J. Bjorkman, Jacob E. Lemieux*, Jeremy Luban5*, Michael S. Seaman*, Debora S. Marks*
+
+
 ## Software requirements
 The entire codebase is written in python. Package requirements are as follows:
   - python=3.7
